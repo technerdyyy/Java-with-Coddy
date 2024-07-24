@@ -4,7 +4,7 @@ class Greet {
     }
 }
 
-public class GreetUser{
+public class three_GreetUser{
     public static void main(String[] args){
         Greet.greet("Bob");
     }

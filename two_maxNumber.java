@@ -8,7 +8,7 @@ class Max {
     }
 }
 
-public class maxNumber {
+public class two_maxNumber {
     public static void main(String[] args) {
 
         int result = Max.max(132, 154);
