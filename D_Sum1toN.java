@@ -8,7 +8,7 @@ class SumCalculator {
     }
 }
 
-public class sum1toN {
+public class D_Sum1toN {
     public static void main(String[] args) {
         int n = 10; // Example input
         System.out.println("The sum of numbers from 1 to " + n + " is: " + SumCalculator.sum(n));
