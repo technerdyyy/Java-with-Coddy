@@ -1,3 +1,4 @@
+// Write a function named reverse that gets a string as input and returns the string reversed.
 
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+// Write a function named "Remove" that gets a string and an integer and returns the string without a letter in the index corresponding to the integer.
+
 class Remove {
     public static String remove(String s, int i) {
         // Write code here

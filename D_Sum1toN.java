@@ -1,3 +1,5 @@
+// Write a function named sum that gets a number n and returns the sum of the numbers from 1 to n.
+
 class SumCalculator {
     public static int sum(int n) {
         int total = 0;
@@ -15,5 +17,3 @@ public class D_Sum1toN {
     }
 
 }
-
-
