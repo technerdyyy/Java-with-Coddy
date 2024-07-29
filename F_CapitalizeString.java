@@ -30,5 +30,6 @@ public class F_CapitalizeString {
         String s = sc.nextLine();
         String newString = Capitalize.capitalize(s);
         System.out.println(newString);
+        sc.close();
     }
 }
