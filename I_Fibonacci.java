@@ -1,4 +1,19 @@
-import java.util.Scanner;
+/* Create a function named fibo that gets an integer i and returns the ith fibonacci series number.
+
+The fibonacci series starts from 0 and 1 and each time the ith element equals the sum of the i-1th and i-2th elements.
+
+So,
+
+0th - 0
+1th - 1
+2th - 1 = 0 + 1
+3th - 2 = 1 + 1
+4th - 3 = 1 + 2
+5th - 5 = 2 + 3
+6th - 8 = 3 + 5
+7th - 13 = 5 + 8 */
+
+import java.util.Scanner; 
 
 public class I_Fibonacci {
     public static void main(String[] args) {

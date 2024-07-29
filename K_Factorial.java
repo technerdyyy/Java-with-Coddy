@@ -1,3 +1,5 @@
+// Write a function named fact that gets num and returns the factorial of num.
+
 class Fact {
     public static int fact(int num) {
         // Write code here

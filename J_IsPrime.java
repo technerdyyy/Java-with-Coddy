@@ -1,3 +1,5 @@
+// Write a function named isPrime that gets an integer num and returns true if num is a prime number otherwise false.
+
 import java.util.Scanner;
 
 public class J_IsPrime {
